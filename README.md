@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me alyciane.marques@escola.pr.gov.br
 - 😄 Pronouns:she/hers
-- ⚡ Fun fact: ...
+
 
 <!---
 dutraa22/dutraa22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
